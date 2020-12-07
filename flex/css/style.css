@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    margin: 0;
+}
+
+#wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+.section{
+    display: flex;
+}
+
+.column{
+    width: 25%;
+    height: 200px;
+    margin-left: 4px;
+}
+
+.section-tow{
+    margin-top: 120px !important;
+}
